@@ -14,6 +14,7 @@ public class floyd_Traingle {
 				System.out.print(k);
 				k++;
 			}
+			
 			System.out.println();
 		}
 

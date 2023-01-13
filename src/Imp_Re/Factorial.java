@@ -12,7 +12,8 @@ public class Factorial {
 		
 		for(int i = num-1; i>1; i--)
 		{
-			num = num*i;     
+			//num = num*i;     
+			num*=i;
 			
 		}
 		System.out.println(num);
